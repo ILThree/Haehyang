@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=haehyang&fontAlign=25&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=ILThree&fontAlign=25&fontAlignY=40&color=gradient)
 
 <p>🛠 Tech Stack 🛠</p>
 <div align=center>
